@@ -7,7 +7,7 @@
 <h1 align="center">I'm Ashish Kumar</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-- 🔭 •	Overall professional experience of above 2.5 years in analyzing data to drive successful business solutions, relevant skills including problem solving, programming, and creative thinking and Understanding the client requirements to give them best solutions to business problems. 
+- 🔭 •	Data Science Enthusiast responsible for collecting, analyzing, handling and modelling extremely large amounts of data. Technical hands-on experience in technologies such as Data Engineering, Exploratory data analysis, BI tools & Data Manipulation. Desire to be a professional having deep expertise in the field of data analysis and research. 
 
 - 👨‍💻 All of my Repositories are available at [Ashish Repositories](https://github.com/ashish2812tiwari)
 
